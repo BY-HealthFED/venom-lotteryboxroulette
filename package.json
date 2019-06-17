@@ -1,6 +1,6 @@
 {
-  "name": "@eightfeet/lotteryboxroulette",
-  "version": "1.0.28",
+  "name": "@byhealth/lotteryboxroulette",
+  "version": "1.0.0",
   "description": "",
   "main": "./dist/lotteryboxroulette.js",
   "files": [
